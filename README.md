@@ -8,3 +8,7 @@
 orkiebleu/orkiebleu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Structure
+[![Structure](https://images.repography.com/45749810/orkiebleu/orkiebleu/structure/1D16NcoXe7K9QfQZ0ZwsvlaeODpRvCKl9-2UI_MF6po/U2zqw2ihY9IR-CxCuMw-PIuA90DGMlRL_3mx61Hdi7E_table.svg)](https://github.com/orkiebleu/orkiebleu)
+
